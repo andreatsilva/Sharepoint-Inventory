@@ -11,3 +11,8 @@ This script is APP Based, so an app needs to be created in MSEntra before runnin
   -TenantId "" `
   -AppId "" `
   -CertificateThumbprint ""
+
+
+  DISCLAIMER:
+
+  ALL THE CODE IS OPEN SOURCE
